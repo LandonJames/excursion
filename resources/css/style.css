@@ -1,0 +1,48 @@
+.topheading {
+  font-family: verdana;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+.linkone{
+  text-align: center;
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.videoone {
+  text-align: center;
+}
+
+h2 {
+  font-family: verdana:cursive;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+  color: white;
+}
+
+.paragraph {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: black;
+}
+
+.lastparagraph {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: right;
+}
