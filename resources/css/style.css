@@ -1,48 +1,29 @@
-.topheading {
-  font-family: verdana;
-  font-size: 50px;
+body {
+  background-color: black;
   text-align: center;
+  font-family: "Verdana", sans-serif;
   color: white;
 }
 
-.linkone{
-  text-align: center;
-  font-size: 16px;
+.cta {
   color: aquamarine;
+  font-size: 16px;
 }
 
-.videoone {
-  text-align: center;
+h1 {
+  font-size: 50px;
+  font-weight: normal;
 }
 
 h2 {
-  font-family: verdana:cursive;
-  font-weight: 300;
   font-size: 42px;
-  text-align: center;
-  color: white;
 }
 
-.paragraph {
-  font-family: verdana;
+p {
   font-size: 21px;
   color: gray;
-  text-align: center;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-body {
-  background-color: black;
-}
-
-.lastparagraph {
-  font-family: verdana;
-  font-size: 21px;
-  color: gray;
+.footer {
   text-align: right;
-}
+} 
